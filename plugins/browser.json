@@ -26,6 +26,9 @@
         },
         "cordova-plugin-console": {
             "PACKAGE_NAME": "com.gambrinous.sitiforp"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.gambrinous.sitiforp"
         }
     },
     "dependent_plugins": {}
